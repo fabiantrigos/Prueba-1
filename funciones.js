@@ -18,3 +18,4 @@ let function alquiler(tipoDeVehiculo, diasDeAlquiler, sillaParaBebe) {
     return ()
 }
 console.log(alquiler(compacto));
+console.log(7);
